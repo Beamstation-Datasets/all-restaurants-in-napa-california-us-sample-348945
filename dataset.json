@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Napa in West Coast. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Napa, California, US",
+  "export_job_id": "60097a8c-efe1-4ad3-a2e6-e4d83c2f7bf7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 348945,
+  "location_name": "Napa",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-napa-california-us-sample-348945",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/348945/beamstation_348945_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 11,
+  "sample_sha256": "e8bd73413d5d6175b11051101d76726b0ba3907f22aed893bd28f81e4edd5331",
+  "sample_size_bytes": 53208,
+  "total_records": 111,
+  "updated_at": "2026-04-09T09:28:04.655001+00:00"
+}

@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 111 records |
 | Free sample size | 11 records (9.91%) |
-| Last export | 2026-04-09T09:28:04.655001+00:00 |
+| Last export | 2026-04-16T09:25:12.588865+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-napa-california-us-sample-348945/releases/download/sample-latest/beamstation_348945_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample

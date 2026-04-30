@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3b4167d6-802a-414f-8e9b-7f70984a5fcf",
+  "export_job_id": "ed04911d-84eb-453d-bd47-57620411b5a0",
   "id_short": 348945,
-  "published_at": "2026-04-23T19:19:18Z",
+  "published_at": "2026-04-30T19:09:22Z",
   "repo_name": "all-restaurants-in-napa-california-us-sample-348945",
   "sample_asset_name": "beamstation_348945_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/348945/beamstation_348945_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "d1df3ca1b514e9ea009e4ba1f5774759203a9140bbeea57de6600e7305790755",
-  "sample_size_bytes": 29758,
-  "total_records": 53
+  "sample_records": 12,
+  "sample_sha256": "b9e821b57c394437480a111178666d98574128a44c7587f771afb24ec8cc8766",
+  "sample_size_bytes": 61637,
+  "total_records": 124
 }

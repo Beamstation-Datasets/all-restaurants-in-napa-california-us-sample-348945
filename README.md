@@ -1,6 +1,6 @@
 # All Restaurants in Napa, California, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 12 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `348945` |
 | Location | Napa |
 | Category | Restaurants |
-| Full dataset size | 53 records |
-| Free sample size | 5 records (9.43%) |
-| Last export | 2026-04-23T09:24:25.925185+00:00 |
+| Full dataset size | 124 records |
+| Free sample size | 12 records (9.68%) |
+| Last export | 2026-04-30T09:25:27.343556+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-napa-california-us-sample-348945/releases/download/sample-latest/beamstation_348945_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
